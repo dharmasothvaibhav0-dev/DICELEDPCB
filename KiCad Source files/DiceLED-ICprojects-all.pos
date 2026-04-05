@@ -1,0 +1,58 @@
+### Footprint positions - created on 2026-04-04T19:04:31 ###
+### Printed by KiCad version 10.0.0
+## Unit = mm, Angle = deg.
+## Side : All
+# Ref     Val        Package                                                PosX       PosY       Rot  Side
+C1        1uf        C_Disc_D5.0mm_W2.5mm_P5.00mm                       108.0000  -112.0000   90.0000  top
+C3        0.01uf     C_Disc_D5.0mm_W2.5mm_P5.00mm                       112.0000  -112.0000   90.0000  top
+D1        LED        LED_D5.0mm                                         114.0000  -101.0400   90.0000  top
+D2        LED        LED_D5.0mm                                         181.7300   -66.0000    0.0000  top
+D3        LED        LED_D5.0mm                                         191.0000   -66.0000    0.0000  top
+D4        LED        LED_D5.0mm                                         172.0000   -66.0000    0.0000  top
+D5        LED        LED_D5.0mm                                         171.4600   -57.0000    0.0000  top
+D6        LED        LED_D5.0mm                                         191.4600   -76.0000    0.0000  top
+D7        LED        LED_D5.0mm                                         191.4600   -57.0000    0.0000  top
+D8        LED        LED_D5.0mm                                         171.4600   -76.0000    0.0000  top
+D9        LED        LED_D5.0mm                                         181.4600   -76.0000    0.0000  top
+D10       LED        LED_D5.0mm                                         199.4600   -66.0000    0.0000  top
+D11       LED        LED_D5.0mm                                         162.4600   -66.0000    0.0000  top
+D12       LED        LED_D5.0mm                                         181.4600   -57.0000    0.0000  top
+D13       LED        LED_D5.0mm                                         199.4600   -50.0000    0.0000  top
+D14       LED        LED_D5.0mm                                         164.4600   -50.0000    0.0000  top
+Q5        Q_NPN_BCE  TO-92L_Inline_Wide                                 143.9200   -42.0000    0.0000  top
+Q6        Q_NPN_BCE  TO-92L_Inline_Wide                                 144.4600   -50.0000    0.0000  top
+Q7        Q_NPN_BCE  TO-92L_Inline_Wide                                 143.9200   -57.0000    0.0000  top
+Q8        Q_NPN_BCE  TO-92L_Inline_Wide                                 143.9200   -65.0000    0.0000  top
+Q9        Q_NPN_BCE  TO-92L_Inline_Wide                                 143.9200   -73.0000    0.0000  top
+Q10       Q_NPN_BCE  TO-92L_Inline_Wide                                 143.9200   -81.0000    0.0000  top
+R1        10k        R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal   128.2500  -100.9400  -90.0000  top
+R14       220        R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal   159.6200  -103.3000  180.0000  top
+R15       220        R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal   159.6200  -100.1500  180.0000  top
+R16       220        R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal   159.6200   -97.0000  180.0000  top
+R17       220        R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal   159.6200   -93.8500  180.0000  top
+R18       220        R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal   159.6200   -90.7000  180.0000  top
+R19       220        R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal   159.6200   -86.3000  180.0000  top
+R20       220        R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal   108.0000   -96.6900  -90.0000  top
+R21       10k        R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal   126.1900   -35.0000    0.0000  top
+R31       10k        R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal   126.1900   -38.0000    0.0000  top
+R41       10k        R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal   126.1900   -41.0000    0.0000  top
+R51       10k        R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal   126.1900   -44.0000    0.0000  top
+R61       10k        R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal   126.1900   -47.0000    0.0000  top
+R71       10k        R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal   126.0000   -50.0000    0.0000  top
+R81       10k        R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal   126.3800   -53.0000    0.0000  top
+R91       10k        R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal   126.3800   -56.0000    0.0000  top
+R101      10k        R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal   126.1900   -59.0000    0.0000  top
+R111      10k        R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal   126.5450   -62.2250    0.0000  top
+R121      10k        R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal   126.5450   -65.3750    0.0000  top
+R131      10k        R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal   126.5450   -68.5250    0.0000  top
+R211      10k        R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal   126.1900   -72.0000    0.0000  top
+R221      10k        R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal   126.1900   -75.1500    0.0000  top
+R231      10k        R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal   126.1900   -78.3000    0.0000  top
+R241      10k        R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal   126.1900   -81.4500    0.0000  top
+R251      10k        R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal   126.1900   -84.6000    0.0000  top
+R261      10k        R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal   126.1900   -87.7500    0.0000  top
+R2222     10k        R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal   128.2500  -110.9400  -90.0000  top
+SW1       SW_Push    SW_PUSH_6mm                                        111.0000   -93.0000   90.0000  top
+U1        NE555D     SOIC-8_3.9x4.9mm_P1.27mm                           117.3650  -110.0250    0.0000  top
+U2        4017       DIP-16_W7.62mm                                     116.0000   -75.0000  -90.0000  top
+## End
