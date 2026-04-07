@@ -1,0 +1,11 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"C1";"C_Disc_D5.0mm_W2.5mm_P5.00mm";1;"1uf";;;
+2;"C3";"C_Disc_D5.0mm_W2.5mm_P5.00mm";1;"0.01uf";;;
+3;"D1, D2, D3, D4, D5, D6, D7, D8, D9, D10, D11, D12, D13, D14";"LED_D5.0mm";14;"LED";;;
+4;"J1";"PinHeader_1x02_P2.54mm_Vertical";1;"Conn_01x02";;;
+5;"Q5, Q6, Q7, Q8, Q9, Q10";"TO-92L_Inline_Wide";6;"Q_NPN_BCE";;;
+6;"R1, R21, R31, R41, R51, R61, R71, R81, R91, R101, R111, R121, R131, R211, R221, R231, R241, R251, R261, R2222";"R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal";20;"10k";;;
+7;"R14, R15, R16, R17, R18, R19, R20";"R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal";7;"220";;;
+8;"SW1";"SW_PUSH_6mm";1;"SW_Push";;;
+9;"U1";"SOIC-8_3.9x4.9mm_P1.27mm";1;"NE555D";;;
+10;"U2";"DIP-16_W7.62mm";1;"4017";;;
