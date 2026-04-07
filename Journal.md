@@ -48,22 +48,26 @@ This is the final schematic for the CD4017 clock
 
 
 It may look pretty confusing, but if you create a diagram with laying out which functions you need to connect it becomes pretty easy.
-<img width="1113" height="603" alt="image" src="https://github.com/user-attachments/assets/6f81c498-903b-4331-8873-4d51223cf2d1" />
+<img width="1393" height="770" alt="Schematic" src="https://github.com/user-attachments/assets/23666e4e-a445-4aaa-ab8b-6ada2809581d" />
+
 
 This is the total final schematic for the circuit.
 
 Now that the actual schematic is done, its time to add the footprints. This was relatively simple as it was just copying and pasting from footprint names. After adding all the footprints I updated my PCB with my schematic, and am organizing it to make wiring easier
 
 While I was wiring I was trying my hardest to figure out how I could wire it all on one layer, but after an hour and a half of trial and error I realized it wasn't possible at all, so I had to resort wiring some parts of the PCB on the back layer.
-<img width="815" height="585" alt="image" src="https://github.com/user-attachments/assets/0bf16c2d-7ef8-4037-af34-5233995db529" />
+<img width="869" height="607" alt="image" src="https://github.com/user-attachments/assets/9bb9ff0a-2855-43fc-a17c-ba9e6dde20de" />
+
 
 This is what the final PCB looks like 
 
 3d Render of front: 
-<img width="841" height="592" alt="image" src="https://github.com/user-attachments/assets/2c2c44a9-38c1-473f-a8db-0e58751c33f9" />
+<img width="809" height="551" alt="image" src="https://github.com/user-attachments/assets/6a2b3462-e2db-406d-88ba-c01d570c0c68" />
+
 
 3d Render of back: 
-<img width="783" height="582" alt="image" src="https://github.com/user-attachments/assets/daf4ba49-813c-4f9a-89c8-4b12610f392a" />
+<img width="794" height="540" alt="image" src="https://github.com/user-attachments/assets/81a59868-2fae-441d-8cc3-e88d298c6bd2" />
+
 
 ## Time taken adding to Schematic + PCB + wiring: 3 hours
 ## Time taken Journaling : 45 minutes combined both days
